@@ -1,0 +1,32 @@
+h2{
+ width: 1,283px;
+    height: 39px;
+    display: inline-block;
+    margin-top: 76px;
+    margin-left: 150px;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+.red{
+    width: 590px;
+height: 300px;
+margin-top: 100px;
+margin-left: 63px;
+display: inline-block;
+background-color: red;
+font-size: 70px;
+text-align: center;
+
+
+
+}
+
+
+
+div{
+color: azure;
+display: flex;
+padding-top: 200px;
+}
